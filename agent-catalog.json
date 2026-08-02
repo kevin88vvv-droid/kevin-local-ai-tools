@@ -20,9 +20,8 @@
     },
     {
       "id": "gapforge-ai-pro",
-      "version": "0.2.0",
-      "upgrade_ready_version": "0.2.2",
-      "delivery_status": "upgrade_pending_gumroad_file_upload",
+      "version": "0.2.2",
+      "delivery_status": "current_version_available_on_gumroad",
       "availability": "for_sale",
       "price_usd": 29,
       "best_for": ["agent capability-gap research", "workflow productization", "buyer ZIP compilation"],
@@ -32,9 +31,8 @@
     },
     {
       "id": "assetpassport-ai-pro",
-      "version": "0.1.0",
-      "upgrade_ready_version": "0.1.2",
-      "delivery_status": "upgrade_pending_gumroad_file_upload",
+      "version": "0.1.2",
+      "delivery_status": "current_version_available_on_gumroad",
       "availability": "for_sale",
       "price_usd": 29,
       "best_for": ["batch AI media evidence", "disclosure records", "client delivery packages"],
