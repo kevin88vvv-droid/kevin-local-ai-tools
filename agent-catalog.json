@@ -10,9 +10,8 @@
   "products": [
     {
       "id": "comfyui-workflow-rescue",
-      "version": "1.0.0",
-      "upgrade_ready_version": "1.0.1",
-      "delivery_status": "upgrade_pending_gumroad_file_upload",
+      "version": "1.0.1",
+      "delivery_status": "current_version_available_on_gumroad",
       "availability": "for_sale",
       "price_usd": 9,
       "best_for": ["ComfyUI workflow transfer", "dependency audit", "privacy cleanup"],
