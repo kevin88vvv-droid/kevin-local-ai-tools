@@ -42,9 +42,8 @@
     },
     {
       "id": "vrm-companion-web-pro",
-      "version": "0.1.0",
-      "upgrade_ready_version": "0.1.2",
-      "delivery_status": "upgrade_pending_gumroad_file_upload",
+      "version": "0.1.2",
+      "delivery_status": "current_version_available_on_gumroad",
       "availability": "for_sale",
       "price_usd": 29,
       "best_for": ["local Web VRM frontend", "push-to-talk UI", "WebSocket agent events"],
