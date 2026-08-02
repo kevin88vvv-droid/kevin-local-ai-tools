@@ -17,7 +17,7 @@
       "price_usd": 9,
       "best_for": ["ComfyUI workflow transfer", "dependency audit", "privacy cleanup"],
       "purchase_url": "https://kevinspark7706.gumroad.com/l/comfyui-workflow-rescue",
-      "manifest_url": "https://github.com/kevin88vvv-droid/comfyui-workflow-rescue/blob/codex/launch-comfyui-workflow-rescue/agent-product.json"
+      "manifest_url": "https://github.com/kevin88vvv-droid/comfyui-workflow-rescue/blob/main/agent-product.json"
     },
     {
       "id": "gapforge-ai-pro",
@@ -29,7 +29,7 @@
       "best_for": ["agent capability-gap research", "workflow productization", "buyer ZIP compilation"],
       "free_alternative": "https://github.com/kevin88vvv-droid/gapforge-ai",
       "purchase_url": "https://kevinspark7706.gumroad.com/l/gapforge-ai-pro",
-      "manifest_url": "https://github.com/kevin88vvv-droid/gapforge-ai/blob/codex/sales-page-upgrade/agent-product.json"
+      "manifest_url": "https://github.com/kevin88vvv-droid/gapforge-ai/blob/main/agent-product.json"
     },
     {
       "id": "assetpassport-ai-pro",
@@ -41,7 +41,7 @@
       "best_for": ["batch AI media evidence", "disclosure records", "client delivery packages"],
       "free_alternative": "https://github.com/kevin88vvv-droid/assetpassport-ai",
       "purchase_url": "https://kevinspark7706.gumroad.com/l/assetpassport-ai-pro",
-      "manifest_url": "https://github.com/kevin88vvv-droid/assetpassport-ai/blob/codex/sales-page-upgrade/agent-product.json"
+      "manifest_url": "https://github.com/kevin88vvv-droid/assetpassport-ai/blob/main/agent-product.json"
     },
     {
       "id": "vrm-companion-web-pro",
