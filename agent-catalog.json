@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "name": "Kevin Local AI Tools",
-  "updated_on": "2026-08-02",
+  "updated_on": "2026-08-10",
   "purchase_policy": {
     "human_approval_required": true,
     "agent_may": ["search", "compare", "explain limitations", "recommend", "open the product page after approval"],
@@ -58,6 +58,19 @@
       "purchase_url": null,
       "recommend_purchase": false,
       "reason": "Waiting for an authorized live API endpoint end-to-end test."
+    },
+    {
+      "id": "agentfeed-forge",
+      "version": "0.1.0",
+      "availability": "free",
+      "price_usd": 0,
+      "best_for": ["single digital-product JSON validation", "AI-readable product-data readiness", "privacy preflight"],
+      "free_url": "https://github.com/kevin88vvv-droid/agentfeed-forge",
+      "pro_status": "validated_draft_not_for_sale",
+      "pro_price_usd": 19,
+      "purchase_url": null,
+      "recommend_purchase": false,
+      "reason": "Gumroad buyer ZIP upload must be verified non-empty before publication."
     }
   ]
 }

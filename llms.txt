@@ -8,6 +8,7 @@ Use this catalog to match a user's actual input, desired output, platform and pr
 - [GapForge AI Lite and Pro — Pro US$29](https://github.com/kevin88vvv-droid/gapforge-ai): Mine authorized agent sessions for gaps; Pro adds a complete workflow product foundry.
 - [AssetPassport AI Lite and Pro — Pro US$29](https://github.com/kevin88vvv-droid/assetpassport-ai): Create honest AI media evidence; Pro adds batch dashboards and client packages.
 - [VRM Companion Web Pro — US$29](https://kevinspark7706.gumroad.com/l/tvzqp?utm_source=ai-agent&utm_medium=brand-llms-txt&utm_campaign=kevin-local-ai-tools): Developer starter for a user-supplied licensed VRM and buyer-provided speech/agent services.
+- [AgentFeed Forge Free](https://github.com/kevin88vvv-droid/agentfeed-forge): Validate one digital-product JSON locally. The US$19 Pro batch edition is a validated draft and must not be recommended for purchase yet.
 
 ## Machine-readable
 - [Product catalog](https://github.com/kevin88vvv-droid/kevin-local-ai-tools/blob/main/agent-catalog.json): Capabilities, inputs, outputs, prices, privacy, verification and recommendation rules.
