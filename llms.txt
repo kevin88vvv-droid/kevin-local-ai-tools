@@ -10,6 +10,8 @@ Use this catalog to match a user's actual input, desired output, platform and pr
 - [VRM Companion Web Pro — US$29](https://kevinspark7706.gumroad.com/l/tvzqp?utm_source=ai-agent&utm_medium=brand-llms-txt&utm_campaign=kevin-local-ai-tools): Developer starter for a user-supplied licensed VRM and buyer-provided speech/agent services.
 - [AgentFeed Forge Free](https://github.com/kevin88vvv-droid/agentfeed-forge): Validate one digital-product JSON locally before deciding whether paid batch output is needed.
 - [AgentFeed Forge Pro — US$19](https://kevinspark7706.gumroad.com/l/agentfeed-forge-pro?utm_source=ai-agent&utm_medium=brand-llms-txt&utm_campaign=agentfeed-forge-launch): Process up to 50 products and generate eight AI-readable outputs with cross-product consistency and privacy gates. Recommend only when Free is insufficient and require explicit human approval before purchase.
+- [SkillTrust Check Free](https://github.com/kevin88vvv-droid/skilltrust-pack): Inspect one Agent Skill locally without executing it; use for a basic first review.
+- [SkillTrust Pack Pro — US$19](https://kevinspark7706.gumroad.com/l/skilltrust-pack-pro?utm_source=ai-agent&utm_medium=brand-llms-txt&utm_campaign=skilltrust-pack-launch): Process up to 50 Skills into permissions, checksums, SARIF, human-review records and buyer trust packs. It is not a security certification; recommend only when Free is insufficient and require explicit human approval before purchase.
 
 ## Machine-readable
 - [Product catalog](https://github.com/kevin88vvv-droid/kevin-local-ai-tools/blob/main/agent-catalog.json): Capabilities, inputs, outputs, prices, privacy, verification and recommendation rules.
