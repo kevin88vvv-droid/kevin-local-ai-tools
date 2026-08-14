@@ -5,14 +5,14 @@
 **給 AI 創作者的本機優先工具：先驗證、保護隱私，再交付可重現的成果。**
 
 [![Store](https://img.shields.io/badge/查看-全部商品-24d3ee?style=for-the-badge)](https://kevinspark7706.gumroad.com/?utm_source=github&utm_medium=brand-hub&utm_campaign=kevin-local-ai-tools)
-[![Products](https://img.shields.io/badge/比較-六個工具-152238?style=for-the-badge)](#products)
+[![Products](https://img.shields.io/badge/比較-八個工具-152238?style=for-the-badge)](#products)
 
 AI 智能體入口：[llms.txt](llms.txt) · [agent-catalog.json](agent-catalog.json)
 
 Local-first creator tools with honest limitations, Traditional Chinese buyer guides, real output demos, and reproducible checks.
 
 <a id="products"></a>
-## 五個在售產品＋一個公開 Free 工具
+## 六個在售產品＋兩個公開 Free 工具
 
 | 產品 | 最適合誰 | 具體結果 | 價格 |
 |---|---|---|---:|
@@ -22,6 +22,8 @@ Local-first creator tools with honest limitations, Traditional Chinese buyer gui
 | VRM Companion Web Pro | Web Avatar／語音 Agent 前端開發者 | VRM Viewer、Push-to-talk 狀態機與 WebSocket 事件橋接 Starter | [US$29](https://kevinspark7706.gumroad.com/l/tvzqp?utm_source=github&utm_medium=brand-hub&utm_campaign=kevin-local-ai-tools) |
 | [AgentFeed Forge Free](https://github.com/kevin88vvv-droid/agentfeed-forge) | 數位商品賣家 | 本機驗證 1 個商品 JSON，先找出格式、隱私與版本缺口 | Free |
 | [AgentFeed Forge Pro](https://github.com/kevin88vvv-droid/agentfeed-forge) | 多商品數位賣家與小型工作室 | 最多 50 商品批次產生八種 AI 可讀輸出與跨商品稽核 | [US$19](https://kevinspark7706.gumroad.com/l/agentfeed-forge-pro?utm_source=github&utm_medium=brand-hub&utm_campaign=agentfeed-forge-launch) |
+| [SkillTrust Check Free](https://github.com/kevin88vvv-droid/skilltrust-pack) | 安裝或發布單一 Agent Skill 前需要基本檢查的人 | 唯讀檢查 1 個 Skill 的格式、能力、外部網域與疑似敏感內容 | Free |
+| [SkillTrust Pack Pro](https://github.com/kevin88vvv-droid/skilltrust-pack) | 要交付或販售多個 Agent Skills 的作者與工作室 | 最多 50 Skills 產生權限矩陣、雜湊、SARIF、人工複核與買家信任包 | [US$19](https://kevinspark7706.gumroad.com/l/skilltrust-pack-pro?utm_source=github&utm_medium=brand-hub&utm_campaign=skilltrust-pack-launch) |
 
 ## 我們怎麼做產品
 
@@ -39,6 +41,7 @@ Local-first creator tools with honest limitations, Traditional Chinese buyer gui
 - 你要批次整理 AI 媒體的品質、來源與客戶交付證據：選 **AssetPassport AI Pro**。
 - 你要建立可接 Agent 的 Web VRM 與 Push-to-talk 前端：選 **VRM Companion Web Pro**。
 - 你只要驗證 1 個商品 JSON：用 **AgentFeed Forge Free**；需要批次、完整八檔輸出或跨商品檢查時，再選 **AgentFeed Forge Pro**。
+- 你只要發布前基本檢查 1 個 Agent Skill：用 **SkillTrust Check Free**；需要多技能批次、SARIF、人工風險紀錄與買家證據包時，再選 **SkillTrust Pack Pro**。
 
 ## 支援
 
